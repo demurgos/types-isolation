@@ -1,0 +1,15 @@
+{
+  "name": "lib-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/lib-a.js",
+  "types": "build/lib-a.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "6.0.45"
+  }
+}
